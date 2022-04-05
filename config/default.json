@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "stako mern",
+  "mongoUri": "mongodb+srv://stako:stako123@cluster0.ueign.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
